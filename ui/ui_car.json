@@ -1,0 +1,190 @@
+{
+  "name": "BMW 116 Trophy",
+  "parent": "ks_mazda_miata",
+  "brand": "BMW",
+  "description": "This is a model for the 750 MC 116 Trophy car.  It's based on an MX5 as it's the most similar standard car.
+It's a work in progress and is not perfect but is closer to the real thing than the other AC models available; even closer than the BMW 1M model.
+Work completed includes:<br>
+<br>
+* Engine power curve has been set to equate to the dyno readings for my car<br>
+* Correct gear ratios, final drive and rolling tyre diameters<br>
+* The LSD has been disabled<br>
+* Track and wheel base are set to the 116 values - this makes the graphics image look slightly strange<br>
+* Traction control defaults to off, although I think in game settings may override this<br>
+* Nankang NS-2R tyres have been added as a tyre option<br>
+<br>
+A few notes on the above:<br>
+<br>
+* Although the power curve and gear ratios should be right, the car bogs own a bit where it perhaps shouldn't. An example is Nelson at Snetterton which I take in third gear in my physical car
+but the model seems to struggle.<br>
+* The model understeers more than it should.  I try to match the suspension set up through performance and feel rather than directly copying my race car set up.<br>
+* The NS-2R tyre model is actually a copy of the semislicks used on the AC Lotus Exige.  Although I have adjusted diameters and widths, I haven't attempted to change the characterisics of the rubber - I wouldn't know where to start.<br>
+<br>
+Opportunities for improvement are:<br>
+<br>
+* Define the model so that it can sit under the BMW brand rather than as a custom configuration of an MX-5<br>
+* Change the front suspension from double wishbone to strut - the handling of the model is a bit different to the real thing<br>
+* Gradually align the geometry with that of a real 116 Trophy Car<br>
+* Use the interior graphics from a right hand drive car<br>
+",
+  "tags": [
+    "#small sports",
+    "rwd",
+    "manual",
+    "race",
+    "germany"
+  ],
+  "class": "race",
+  "specs": {
+    "bhp": "128bhp",
+    "torque": "155Nm",
+    "weight": "1030kg",
+    "topspeed": "192km/h",
+    "acceleration": "8.8s 0-100km/h",
+    "pwratio": "8.05 kg/hp"
+  },
+  "torqueCurve": [
+    [
+      2500.0,
+      48.062015503875969
+    ],
+    [
+      3000.0,
+      74.496124031007753
+    ],
+    [
+      3500.0,
+      93.720930232558132
+    ],
+    [
+      4000.0,
+      103.33333333333333
+    ],
+    [
+      4500.0,
+      117.75193798449611
+    ],
+    [
+      4575.0,
+      117.75193798449611
+    ],
+    [
+      4600.0,
+      117.75193798449611
+    ],
+    [
+      5000.0,
+      129.76744186046511
+    ],
+    [
+      5500.0,
+      141.7829457364341
+    ],
+    [
+      6000.0,
+      151.3953488372093
+    ],
+    [
+      6500.0,
+      153.79844961240309
+    ],
+    [
+      7000.0,
+      155.0
+    ],
+    [
+      7250.0,
+      0.0
+    ],
+    [
+      7275.0,
+      0.0
+    ],
+    [
+      7350.0,
+      0.0
+    ],
+    [
+      7425.0,
+      0.0
+    ],
+    [
+      7500.0,
+      0.0
+    ]
+  ],
+  "powerCurve": [
+    [
+      2500.0,
+      14.174972314507196
+    ],
+    [
+      2700.0,
+      18.676943521594684
+    ],
+    [
+      2925.0,
+      24.338073089700995
+    ],
+    [
+      3000.0,
+      26.365448504983387
+    ],
+    [
+      3300.0,
+      33.4926245847176
+    ],
+    [
+      3500.0,
+      38.697674418604649
+    ],
+    [
+      4000.0,
+      48.761904761904759
+    ],
+    [
+      4500.0,
+      62.511627906976742
+    ],
+    [
+      4600.0,
+      63.900775193798438
+    ],
+    [
+      6000.0,
+      107.1627906976744
+    ],
+    [
+      6500.0,
+      117.93576965669988
+    ],
+    [
+      7000.0,
+      127.99999999999999
+    ],
+    [
+      7250.0,
+      0.0
+    ],
+    [
+      7275.0,
+      0.0
+    ],
+    [
+      7350.0,
+      0.0
+    ],
+    [
+      7425.0,
+      0.0
+    ],
+    [
+      7500.0,
+      0.0
+    ]
+  ],
+  "country": "Germany",
+  "author": "Paul Offord",
+  "version": null,
+  "url": null
+}
