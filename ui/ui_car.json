@@ -6,7 +6,7 @@
 It's a work in progress and is not perfect but is closer to the real thing than the other AC models available; even closer than the BMW 1M model.
 Work completed includes:<br>
 <br>
-* Engine power curve has been set to equate to the dyno readings for my car<br>
+* Engine power curve has been set to equate to the torque values from a dyno session for my 116 Trophy car<br>
 * Correct gear ratios, final drive and rolling tyre diameters<br>
 * The LSD has been disabled<br>
 * Track and wheel base are set to the 116 values - this makes the graphics image look slightly strange<br>
@@ -15,8 +15,7 @@ Work completed includes:<br>
 <br>
 A few notes on the above:<br>
 <br>
-* Although the power curve and gear ratios should be right, the car bogs own a bit where it perhaps shouldn't. An example is Nelson at Snetterton which I take in third gear in my physical car
-but the model seems to struggle.<br>
+* The power curve has been corrected in this version.  This has made the car quite lively and further tweaking may be needed.<br>
 * The model understeers more than it should.  I try to match the suspension set up through performance and feel rather than directly copying my race car set up.<br>
 * The NS-2R tyre model is actually a copy of the semislicks used on the AC Lotus Exige.  Although I have adjusted diameters and widths, I haven't attempted to change the characterisics of the rubber - I wouldn't know where to start.<br>
 <br>
