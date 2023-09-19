@@ -31,9 +31,6 @@ Work completed includes:
 * Set the Traction control defaults to off, although I think in game settings may override this
 * Nankang NS-2R tyres have been added as a tyre option
 
-Although the power curve and gear ratios should be right, the car bogs own a bit where it perhaps shouldn't. An example is Nelson at Snetterton which I take in third gear in my physical car
-but the model seems to struggle.  The car weight without fuel should be around 1,215kg (1,130kg plus 85kg for driver) but I found the car to be sluggish.  I have reduced the total car weight by 100kg which produces handling and performance closer to a real Trophy car.
-
 The NS-2R tyre model is actually a copy of the semislicks used on the AC Lotus Exige.  Although I have adjusted diameters and widths, I haven't attempted to change the characterisics of the rubber - I wouldn't know where to start.
 
 Opportunities for improvement are:
