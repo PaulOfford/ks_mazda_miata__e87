@@ -2,30 +2,7 @@
   "name": "BMW 116 Trophy",
   "parent": "ks_mazda_miata",
   "brand": "BMW",
-  "description": "This is a model for the 750 MC 116 Trophy car.  It's based on an MX5 as it's the most similar standard car.
-It's a work in progress and is not perfect but is closer to the real thing than the other AC models available; even closer than the BMW 1M model.
-Work completed includes:<br>
-<br>
-* Engine power curve has been set to equate to the torque values from a dyno session for my 116 Trophy car<br>
-* Correct gear ratios, final drive and rolling tyre diameters<br>
-* The LSD has been disabled<br>
-* Track and wheel base are set to the 116 values - this makes the graphics image look slightly strange<br>
-* Traction control defaults to off, although I think in game settings may override this<br>
-* Nankang NS-2R tyres have been added as a tyre option<br>
-<br>
-A few notes on the above:<br>
-<br>
-* The power curve has been corrected in this version.  This has made the car quite lively and further tweaking may be needed.<br>
-* The model understeers more than it should.  I try to match the suspension set up through performance and feel rather than directly copying my race car set up.<br>
-* The NS-2R tyre model is actually a copy of the semislicks used on the AC Lotus Exige.  Although I have adjusted diameters and widths, I haven't attempted to change the characterisics of the rubber - I wouldn't know where to start.<br>
-<br>
-Opportunities for improvement are:<br>
-<br>
-* Define the model so that it can sit under the BMW brand rather than as a custom configuration of an MX-5<br>
-* Change the front suspension from double wishbone to strut - the handling of the model is a bit different to the real thing<br>
-* Gradually align the geometry with that of a real 116 Trophy Car<br>
-* Use the interior graphics from a right hand drive car<br>
-",
+  "description": "This is a model for the 750 MC 116 Trophy car.  It&#39;s based on an MX5 as it&#39;s the most similar standard car.<br>It&#39;s a work in progress and is not perfect but is closer to the real thing than the other AC models available; even closer than the BMW 1M model.<br>Work completed includes:<br><br>* Engine power curve has been set to equate to the torque values from a dyno session for my 116 Trophy car<br>* Correct gear ratios, final drive and rolling tyre diameters<br>* The LSD has been disabled<br>* Track and wheel base are set to the 116 values - this makes the graphics image look slightly strange<br>* Traction control defaults to off, although I think in game settings may override this<br>* Nankang NS-2R tyres have been added as a tyre option<br><br>A few notes on the above:<br><br>* The power curve has been corrected in this version.  This has made the car quite lively and further tweaking may be needed.<br>* The model understeers more than it should.  I try to match the suspension set up through performance and feel rather than directly copying my race car set up.<br>* The NS-2R tyre model is actually a copy of the semislicks used on the AC Lotus Exige.  Although I have adjusted diameters and widths, I haven&#39;t attempted to change the characterisics of the rubber - I wouldn&#39;t know where to start.<br><br>Opportunities for improvement are:<br><br>* Define the model so that it can sit under the BMW brand rather than as a custom configuration of an MX-5<br>* Change the front suspension from double wishbone to strut - the handling of the model is a bit different to the real thing<br>* Gradually align the geometry with that of a real 116 Trophy Car<br>* Use the interior graphics from a right hand drive car",
   "tags": [
     "#small sports",
     "rwd",
@@ -44,142 +21,510 @@ Opportunities for improvement are:<br>
   },
   "torqueCurve": [
     [
+      0.0,
+      39.857142857142861
+    ],
+    [
+      500.0,
+      62.0
+    ],
+    [
+      700.0,
+      68.642857142857153
+    ],
+    [
+      900.0,
+      77.5
+    ],
+    [
+      1000.0,
+      80.821428571428569
+    ],
+    [
+      1200.0,
+      89.678571428571431
+    ],
+    [
+      1500.0,
+      99.642857142857153
+    ],
+    [
+      1600.0,
+      104.07142857142858
+    ],
+    [
+      1700.0,
+      107.39285714285715
+    ],
+    [
+      1800.0,
+      111.82142857142858
+    ],
+    [
+      1900.0,
+      115.14285714285715
+    ],
+    [
+      2000.0,
+      119.57142857142858
+    ],
+    [
+      2100.0,
+      125.10714285714286
+    ],
+    [
+      2200.0,
+      129.53571428571431
+    ],
+    [
+      2300.0,
+      135.07142857142858
+    ],
+    [
+      2400.0,
+      139.5
+    ],
+    [
       2500.0,
-      48.062015503875969
+      140.60714285714286
+    ],
+    [
+      2600.0,
+      142.82142857142858
+    ],
+    [
+      2800.0,
+      145.03571428571431
+    ],
+    [
+      2900.0,
+      151.67857142857145
     ],
     [
       3000.0,
-      74.496124031007753
+      153.89285714285714
+    ],
+    [
+      3075.0,
+      153.89285714285714
+    ],
+    [
+      3100.0,
+      153.89285714285714
+    ],
+    [
+      3150.0,
+      153.89285714285714
+    ],
+    [
+      3200.0,
+      153.89285714285714
+    ],
+    [
+      3300.0,
+      152.78571428571431
+    ],
+    [
+      3375.0,
+      152.78571428571431
+    ],
+    [
+      3400.0,
+      152.78571428571431
+    ],
+    [
+      3450.0,
+      152.78571428571431
     ],
     [
       3500.0,
-      93.720930232558132
+      152.78571428571431
     ],
     [
-      4000.0,
-      103.33333333333333
+      3700.0,
+      150.57142857142858
     ],
     [
-      4500.0,
-      117.75193798449611
+      3800.0,
+      148.35714285714286
     ],
     [
-      4575.0,
-      117.75193798449611
+      3825.0,
+      148.35714285714286
     ],
     [
-      4600.0,
-      117.75193798449611
+      3900.0,
+      148.35714285714286
     ],
     [
-      5000.0,
-      129.76744186046511
+      4100.0,
+      150.57142857142858
     ],
     [
-      5500.0,
-      141.7829457364341
+      4200.0,
+      153.89285714285714
     ],
     [
-      6000.0,
-      151.3953488372093
-    ],
-    [
-      6500.0,
-      153.79844961240309
-    ],
-    [
-      7000.0,
+      4300.0,
       155.0
     ],
     [
-      7250.0,
-      0.0
+      4500.0,
+      152.78571428571431
+    ],
+    [
+      4600.0,
+      149.46428571428572
+    ],
+    [
+      4700.0,
+      150.57142857142858
+    ],
+    [
+      4800.0,
+      149.46428571428572
+    ],
+    [
+      4875.0,
+      149.46428571428572
+    ],
+    [
+      4900.0,
+      149.46428571428572
+    ],
+    [
+      5000.0,
+      148.35714285714286
+    ],
+    [
+      5100.0,
+      149.46428571428572
+    ],
+    [
+      5200.0,
+      147.25
+    ],
+    [
+      5400.0,
+      149.46428571428572
+    ],
+    [
+      5500.0,
+      151.67857142857145
+    ],
+    [
+      5600.0,
+      152.78571428571431
+    ],
+    [
+      5800.0,
+      150.57142857142858
+    ],
+    [
+      5900.0,
+      148.35714285714286
+    ],
+    [
+      6000.0,
+      145.03571428571431
+    ],
+    [
+      6100.0,
+      143.92857142857145
+    ],
+    [
+      6200.0,
+      141.71428571428572
+    ],
+    [
+      6400.0,
+      139.5
+    ],
+    [
+      6450.0,
+      139.5
+    ],
+    [
+      6500.0,
+      139.5
+    ],
+    [
+      6600.0,
+      136.17857142857145
+    ],
+    [
+      6700.0,
+      130.64285714285714
+    ],
+    [
+      6800.0,
+      126.21428571428572
+    ],
+    [
+      7000.0,
+      119.57142857142858
+    ],
+    [
+      7200.0,
+      99.642857142857153
     ],
     [
       7275.0,
-      0.0
+      99.642857142857153
     ],
     [
       7350.0,
-      0.0
+      99.642857142857153
     ],
     [
       7425.0,
-      0.0
+      99.642857142857153
     ],
     [
       7500.0,
-      0.0
+      99.642857142857153
     ]
   ],
   "powerCurve": [
     [
+      0.0,
+      0.0
+    ],
+    [
+      75.0,
+      0.45714285714285713
+    ],
+    [
+      150.0,
+      0.98461538461538467
+    ],
+    [
+      225.0,
+      1.5824175824175826
+    ],
+    [
+      300.0,
+      2.2505494505494505
+    ],
+    [
+      375.0,
+      2.989010989010989
+    ],
+    [
+      450.0,
+      3.7978021978021976
+    ],
+    [
+      600.0,
+      5.5326007326007325
+    ],
+    [
+      700.0,
+      6.7829059829059828
+    ],
+    [
+      825.0,
+      8.6388278388278383
+    ],
+    [
+      1000.0,
+      11.409035409035411
+    ],
+    [
+      1425.0,
+      19.542857142857144
+    ],
+    [
+      1500.0,
+      21.0989010989011
+    ],
+    [
+      1700.0,
+      25.771916971916973
+    ],
+    [
+      1900.0,
+      30.882539682539683
+    ],
+    [
+      2000.0,
+      33.758241758241759
+    ],
+    [
+      2200.0,
+      40.228571428571428
+    ],
+    [
+      2300.0,
+      43.854456654456655
+    ],
+    [
+      2400.0,
+      47.261538461538464
+    ],
+    [
       2500.0,
-      14.174972314507196
+      49.621489621489623
     ],
     [
-      2700.0,
-      18.676943521594684
+      2600.0,
+      52.419047619047618
     ],
     [
-      2925.0,
-      24.338073089700995
+      2800.0,
+      57.326495726495729
+    ],
+    [
+      2900.0,
+      62.093284493284493
     ],
     [
       3000.0,
-      26.365448504983387
+      65.172161172161168
+    ],
+    [
+      3200.0,
+      69.516971916971926
     ],
     [
       3300.0,
-      33.4926245847176
+      71.173626373626377
     ],
     [
       3500.0,
-      38.697674418604649
+      75.487179487179489
     ],
     [
-      4000.0,
-      48.761904761904759
+      3700.0,
+      78.644200244200249
+    ],
+    [
+      3800.0,
+      79.581929181929183
+    ],
+    [
+      3900.0,
+      81.67619047619047
+    ],
+    [
+      4100.0,
+      87.146275946275949
+    ],
+    [
+      4200.0,
+      91.241025641025644
+    ],
+    [
+      4300.0,
+      94.085470085470078
     ],
     [
       4500.0,
-      62.511627906976742
+      97.054945054945051
+    ],
+    [
+      4575.0,
+      97.063736263736274
     ],
     [
       4600.0,
-      63.900775193798438
+      97.054945054945051
+    ],
+    [
+      4700.0,
+      99.8993894993895
+    ],
+    [
+      4800.0,
+      101.27472527472528
+    ],
+    [
+      4900.0,
+      103.38461538461539
+    ],
+    [
+      5000.0,
+      104.71306471306473
+    ],
+    [
+      5100.0,
+      107.60439560439561
+    ],
+    [
+      5200.0,
+      108.08888888888889
+    ],
+    [
+      5400.0,
+      113.93406593406594
+    ],
+    [
+      5500.0,
+      117.76312576312577
+    ],
+    [
+      5600.0,
+      120.77948717948718
+    ],
+    [
+      5800.0,
+      123.28009768009768
+    ],
+    [
+      5850.0,
+      123.42857142857143
+    ],
+    [
+      5900.0,
+      123.56141636141636
     ],
     [
       6000.0,
-      107.1627906976744
+      122.84249084249085
+    ],
+    [
+      6100.0,
+      123.93650793650794
+    ],
+    [
+      6150.0,
+      123.99120879120879
+    ],
+    [
+      6200.0,
+      124.03028083028083
+    ],
+    [
+      6400.0,
+      126.03076923076924
     ],
     [
       6500.0,
-      117.93576965669988
+      128.0
+    ],
+    [
+      6600.0,
+      126.87472527472527
+    ],
+    [
+      6700.0,
+      123.56141636141636
+    ],
+    [
+      6800.0,
+      121.15457875457877
     ],
     [
       7000.0,
-      127.99999999999999
+      118.15384615384616
     ],
     [
-      7250.0,
-      0.0
-    ],
-    [
-      7275.0,
-      0.0
-    ],
-    [
-      7350.0,
-      0.0
-    ],
-    [
-      7425.0,
-      0.0
+      7200.0,
+      101.27472527472528
     ],
     [
       7500.0,
-      0.0
+      105.49450549450549
     ]
   ],
   "country": "Germany",
