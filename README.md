@@ -36,8 +36,8 @@ To install a new version of this mod:
 * Repeat the Install and Run steps
 * Load the setup you saved
 
-If you installed this mod using git, simply perform a `git pull`.  After the pull, delete the file `.\assettocorsa\content\cars\ks_mazda_miata__e87\data.acd' if it exists.
-The data.acd file is an old packed data version of the configuration and would take precedence over the newly pulled version if not deleted.
+If you installed this mod using git, simply perform a `git pull`.  After the pull, delete the file `.\assettocorsa\content\cars\ks_mazda_miata__e87\data.acd` if it exists.
+The `data.acd` file is an old packed data version of the configuration and would take precedence over the newly pulled version if not deleted.
 
 ## Overview
 This is a model for the 750 MC 116 Trophy car.  It's based on an MX5 (ks_mazda_miata) as it's the most similar standard car.
