@@ -48,4 +48,5 @@
 {3f489cbb-a5e2-495d-a586-22d6e308cdc8} event:/cars/ks_mazda_miata__e87/tractioncontrol_int 
 {9a0522cb-9715-42c8-ba48-95cf2abb2f7a} event:/cars/ks_mazda_miata__e87/transmission 
 {7b6acf7c-9ea9-440e-897c-2d001a35ee9e} event:/cars/ks_mazda_miata__e87/wheel 
-{b012391a-e370-4279-961c-08bde6145783} event:/cars/ks_mazda_miata__e87/wind 
+{b012391a-e370-4279-961c-08bde6145783} event:/cars/ks_mazda_miata__e87/wind
+{71e86ad8-ac24-4bd0-8508-619c7e6c45e2} bank:/ks_mazda_miata__e87

@@ -14,7 +14,7 @@
   "specs": {
     "bhp": "128bhp",
     "torque": "155Nm",
-    "weight": "1030kg",
+    "weight": "1130kg",
     "topspeed": "192km/h",
     "acceleration": "8.8s 0-100km/h",
     "pwratio": "8.05 kg/hp"
@@ -527,8 +527,9 @@
       105.49450549450549
     ]
   ],
-  "country": "Germany",
+  "country": "England",
+  "year": 2025,
   "author": "Paul Offord",
-  "version": null,
-  "url": null
+  "version": 0.3,
+  "url": "http://pauloffordracing.com"
 }
